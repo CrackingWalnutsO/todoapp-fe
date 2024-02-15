@@ -6,7 +6,7 @@ You can initialize a react native app with expo by.
 ```npx create-expo-app --template ```
 ## run app in IDE
 start app in app directory: 
-- ```npx expo --web or```
+- ```npx expo --web``` or
 - for using Gitpod and testing app on smartphone (different network) via QR code and Expo Go app: ```npx expo --tunnel``` (enables connecting device/smartphone by using Expo Go App and Scannign QR Code)
 -  if you encounter problems with babel config, make sure to put it in json format: babel.config.json with content
    ```
