@@ -1,4 +1,6 @@
 # todoapp-fe
+## purpose
+a todo app in react native running on android smartphone
 ## initialize react native app with expo
 ```npx create-expo-app --template ```
 ## run app in IDE
