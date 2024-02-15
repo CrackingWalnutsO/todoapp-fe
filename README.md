@@ -4,7 +4,6 @@ a todo app in react native running standalone (without necessity for backend) on
 The app uses react native expo instead of react native CLI for Developer Experience purposes. 
 You can initialize a react native app with expo by.
 ```npx create-expo-app --template ```
-## 
 ## run app in IDE
 start app in app directory: 
 - ```npx expo --web or```
