@@ -125,3 +125,12 @@ export default App;
 //  "presets": ["babel-preset-expo"]
 //  }
 // npx create-expo-app --template
+
+//Build: 
+//expo build:android
+//expo install expo-dev-client
+//npm install -g eas-cli
+//eas build --profile development --platform android
+//expo start --dev-client
+
+
