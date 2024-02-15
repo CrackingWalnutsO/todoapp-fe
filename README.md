@@ -1,6 +1,6 @@
 # todoapp-fe
 ## purpose
-a todo app in react native running on android smartphone.
+a todo app in react native running standalone (without necessity for backend) on android smartphone.
 The app uses react native expo instead of react native CLI for Developer Experience purposes. 
 ## initialize react native app with expo
 ```npx create-expo-app --template ```
