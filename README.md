@@ -32,5 +32,5 @@ this todo app can be installed on a smartphone. It stores data only in frontend 
 6. Install ADB (Android Developer Brdige, for connecting computer with smartphone)
    - installing Android Studio
    - Adding adb to PATH environment variable. Verify with ```adb version```
-7. Install app: ```java -jar bundletool-all.jar install-apks --apks=path/to/your/file.apks```
+7. Install app: ```java -jar bundletool-all-x.x.x.jar install-apks --apks=path/to/your/file.apks```
 
